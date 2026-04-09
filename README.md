@@ -28,7 +28,3 @@ Para ver la interfaz visual:
 2. Abre `src/main/java/entornos/InterfazCalculadora.java`.
 3. Pulsa `F5` o haz clic en el botón **Run** que aparece sobre el método `main`.
 
-## Captura de Ejecución
-
-![Captura de tests en VS Code](captura_tests.png)
-*(Nota: Aquí se debe incluir la captura de pantalla del Testing Explorer con todos los tests en verde).*
